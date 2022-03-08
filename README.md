@@ -16,7 +16,7 @@ Factory use for dummy data:
 
 ## ToDo
 
---search for company in home page
---form validation
---registration for user
---make it that the user can edit only his added companies
+1. search for company in home page
+2. form validation
+3. registration for user
+4. make it that the user can edit only his added companies
